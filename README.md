@@ -2,7 +2,7 @@
 
 ```
 cd root
-wget https://raw.githubusercontent.com/Badutpsr/manager/refs/heads/main/zivpn
+wget https://raw.githubusercontent.com/ibieljr/udp/refs/heads/main/zivpn
 chmod +x zivpn
 ./zivpn
 ```
